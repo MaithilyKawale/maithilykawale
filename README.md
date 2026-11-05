@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
 
-<!--
-**MaithilyKawale/maithilykawale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Maithily Kawale, a B.Tech Artificial Intelligence Engineering student. I have a strong foundation in Python and hands-on experience in full-stack web development. I enjoy building data-driven applications using SQL and Power BI, and developing intelligent systems by combining programming, data analysis, and software engineering.
 
-Here are some ideas to get you started:
+## Technical Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Programming Languages:** Python
+- **Frontend:** HTML5, CSS3, JavaScript, React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database & Query:** SQL, MongoDB
+- **AI/ML:** Machine Learning, Deep Learning, NLP, LLMs, RAG
+- **Data Analysis & Visualization:** Power BI, Microsoft Excel
+- **Version Control & Deployment:** Git, GitHub, Netlify
+- **Development Tools:** VS Code, Google Colab
+- **Soft Skills:** Quick Learner, Leadership, Management Skills, Creativity, Team Coordination, Mentoring
